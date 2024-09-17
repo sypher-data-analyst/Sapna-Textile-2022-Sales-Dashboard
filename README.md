@@ -3,4 +3,4 @@ This Is The Dashboard I Develped which Shows The Detailed Information About The 
 
 Dashboard 1 <img src="./Tejas Dashboard 1.png" alt="Dashboard 1">
 <br>
-Dashboard 2 <img src="./Tejas Dashboard 1.png" alt="Dashboard 1">
+Dashboard 2 <img src="./Tejas Dashboard 2.png" alt="Dashboard 2">
